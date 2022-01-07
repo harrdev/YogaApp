@@ -53,6 +53,7 @@ https://miro.com/app/board/uXjVOXGZm4I=/?invite_link_id=489495930807
 ## Stretch Goals
 1. Avatar options for profile picture
 2. Expand music options with ability to choose music
+3. Allow users to create and add new Asanas
 
 ## Version 2
 1. Incorporate Tensorflow with ability to track pose form with correct form and notify when form is broken.
