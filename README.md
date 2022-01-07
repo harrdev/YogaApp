@@ -49,3 +49,10 @@ https://miro.com/app/board/uXjVOXGZm4I=/?invite_link_id=489495930807
 4. Databases seeded with Yoga Asana information.
 5. 5 pages - Login/Signup, Routine Creation, Show/Details page, Profile page, Start Routine Page.
 6. On Start Routine page, a slideshow of poses shows up and displays Asana position and is timed to match how long each pose is setup for.
+
+## Stretch Goals
+1. Avatar options for profile picture
+2. Expand music options with ability to choose music
+
+## Version 2
+1. Incorporate Tensorflow with ability to track pose form with correct form and notify when form is broken.
