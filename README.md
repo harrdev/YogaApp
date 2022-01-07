@@ -1,5 +1,8 @@
 # Yoga
 
+## Wireframes
+https://miro.com/app/board/uXjVOXGZm4I=/?invite_link_id=489495930807
+
 ## User Stories
     1. As a user, you will be able to create and login to the Yoga app.
 
@@ -18,7 +21,9 @@
         * Music will begin playing once the routine starts.
     
     6. On the profile page, a user will be able to view their saved routines and a Progress Module will be displayed showing how many days the user has been active with their routines.
-        * Once a saved routine is clicked on, it will take them to the "Build Routines" page to be able to edit or delete the saved routine.
+        * Once a saved routine is clicked on, it will load images for each pose in the routine.  
+        * There will be 2 buttons once a saved routine is clicked on.  "Start Routine" and "Edit Routine".
+        * If "Edit Routine" button is clicked on, it redirects towards the Create Routines page to be able to add, edit, delete Asanas within that saved routine.
 
 
 ## Tech Stack
