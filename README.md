@@ -42,3 +42,5 @@
 2. Drag and Drop to re-arrange routines.
 3. Progress tracker, including a calendar module to visually show progress.
 4. Databases seeded with Yoga Asana information.
+5. 5 pages - Login/Signup, Routine Creation, Show/Details page, Profile page, Start Routine Page.
+6. On Start Routine page, a slideshow of poses shows up and displays Asana position and is timed to match how long each pose is setup for.
